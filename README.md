@@ -1,4 +1,4 @@
-#Kavach: UI/UX Design Documentation
+Kavach: UI/UX Design Documentation
 Overview
 Kavach is an Android application designed to detect and block spam SMS, phone calls, and emails. The goal of Kavach is to provide users with a clean and secure communication experience by filtering out unwanted and potentially harmful content. This document provides an overview of the UI/UX design of the Kavach app, including descriptions of key screens and design elements.
 
